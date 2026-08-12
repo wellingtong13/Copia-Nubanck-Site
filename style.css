@@ -113,7 +113,7 @@ header nav a:hover {
 .hero {
     min-height: 80vh;
 
-    background: url("/equipe/imagem/nubanck estadio.jpg")
+    background: url("nubanck-estadio.jpg")
         center / cover no-repeat;
 
     padding: 100px 40px 80px;
